@@ -1,0 +1,5 @@
+binaural beats	dudnienia różnicowe
+monoaural beats	monofoniczne dudnienia róznicowe
+Frequency Following Response	Częstotliwościowa Odpowiedź Wywołana
+phazing	fazowanie
+hemispheric synchronization	synchronizacja półkulowa
