@@ -259,6 +259,16 @@ had already 2 quiz shows in</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>television and found that this
+was nice but there must be</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T203732Z" creationid="DELL" creationdate="20200106T203732Z">
+        <seg>w telewizji i stwierdziliśmy, że to
+było fajnie, ale musi być</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>with a picture.</seg>
       </tuv>
       <tuv lang="PL" changeid="DELL" changedate="20200106T202955Z" creationid="DELL" creationdate="20200106T202955Z">
