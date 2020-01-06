@@ -25,8 +25,24 @@ I first got into this field.</seg>
       <tuv lang="EN-US">
         <seg>Had at the time was.</seg>
       </tuv>
-      <tuv lang="PL" changeid="DELL" changedate="20200106T200105Z" creationid="DELL" creationdate="20200106T200105Z">
-        <seg> wtedy miałem, była</seg>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T200144Z" creationid="DELL" creationdate="20200106T200105Z">
+        <seg>wtedy miałem, była</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T200155Z" creationid="DELL" creationdate="20200106T200155Z">
+        <seg>w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Involved up until 1956.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T200148Z" creationid="DELL" creationdate="20200106T200148Z">
+        <seg>zaangażowana do 1956 roku</seg>
       </tuv>
     </tu>
     <tu>
@@ -52,6 +68,24 @@ fell out of the tree.</seg>
       </tuv>
       <tuv lang="PL" changeid="DELL" changedate="20200106T200043Z" creationid="DELL" creationdate="20200106T200043Z">
         <seg>Moja firma, którą</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Very extensive network
+radio programs, which means</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T200234Z" creationid="DELL" creationdate="20200106T200234Z">
+        <seg>bardzo rozbudowane sieciowe programy radiowe, co oznacza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dramatic programs for radio
+nationwide and overseas.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T200358Z" creationid="DELL" creationdate="20200106T200358Z">
+        <seg>dramatyczne programy dla radia w całym kraju i za granicą.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
