@@ -15,6 +15,14 @@ I first got into this field.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And in 1956, we had the choice.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T200802Z" creationid="DELL" creationdate="20200106T200802Z">
+        <seg>A w 1956 roku mieliśmy wybór</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By accident sort of.</seg>
       </tuv>
       <tuv lang="PL" changeid="DELL" changedate="20200106T195258Z" creationid="DELL" creationdate="20200106T195258Z">
@@ -84,8 +92,8 @@ radio programs, which means</seg>
         <seg>dramatic programs for radio
 nationwide and overseas.</seg>
       </tuv>
-      <tuv lang="PL" changeid="DELL" changedate="20200106T200358Z" creationid="DELL" creationdate="20200106T200358Z">
-        <seg>dramatyczne programy dla radia w całym kraju i za granicą.</seg>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T200434Z" creationid="DELL" creationdate="20200106T200358Z">
+        <seg>programy dramatyczne dla radia w całym kraju i za granicą.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
