@@ -89,6 +89,14 @@ this.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It was</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T202916Z" creationid="DELL" creationdate="20200106T202916Z">
+        <seg>Było to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It was.</seg>
       </tuv>
       <tuv lang="PL" changeid="Paweł" changedate="20191010T151642Z" creationid="Paweł" creationdate="20191010T151642Z">
