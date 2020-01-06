@@ -15,6 +15,15 @@ I first got into this field.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All over again, it was is
+this.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T202100Z" creationid="DELL" creationdate="20200106T202100Z">
+        <seg>I znów tak było.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And in 1956, we had the choice.</seg>
       </tuv>
       <tuv lang="PL" changeid="DELL" changedate="20200106T200802Z" creationid="DELL" creationdate="20200106T200802Z">
@@ -104,6 +113,22 @@ fell out of the tree.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That, it was like seeing a</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T202016Z" creationid="DELL" creationdate="20200106T201949Z">
+        <seg>że to było jak oglądanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is where we came in</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T202219Z" creationid="DELL" creationdate="20200106T202219Z">
+        <seg>Właśnie tam weszliśmy,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Until we discovered a very
 interesting thing now we had</seg>
       </tuv>
@@ -145,6 +170,14 @@ nationwide and overseas.</seg>
       </tuv>
       <tuv lang="PL" changeid="DELL" changedate="20200106T200434Z" creationid="DELL" creationdate="20200106T200358Z">
         <seg>programy dramatyczne dla radia w całym kraju i za granicą.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>movie.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T202000Z" creationid="DELL" creationdate="20200106T202000Z">
+        <seg>filmu.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
