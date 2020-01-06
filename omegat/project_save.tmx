@@ -33,6 +33,14 @@ this.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And being very.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T205622Z" creationid="DELL" creationdate="20200106T205558Z">
+        <seg>I będąc bardzo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And in 1956, we had the choice.</seg>
       </tuv>
       <tuv lang="PL" changeid="DELL" changedate="20200106T200802Z" creationid="DELL" creationdate="20200106T200802Z">
@@ -182,8 +190,8 @@ fell out of the tree.</seg>
         <seg>The Buck ends with the
 president of the company.</seg>
       </tuv>
-      <tuv lang="PL" changeid="DELL" changedate="20200106T205243Z" creationid="DELL" creationdate="20200106T205243Z">
-        <seg>Dolar kończy się na prezesie firmy</seg>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T205606Z" creationid="DELL" creationdate="20200106T205243Z">
+        <seg>Dolar kończy się na prezesie firmy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -324,6 +332,14 @@ was nice but there must be</seg>
       <tuv lang="PL" changeid="DELL" changedate="20200106T203732Z" creationid="DELL" creationdate="20200106T203732Z">
         <seg>w telewizji i stwierdziliśmy, że to
 było fajnie, ale musi być</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>try something else.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T205546Z" creationid="DELL" creationdate="20200106T205546Z">
+        <seg>że spróbujemy czegoś innego.</seg>
       </tuv>
     </tu>
     <tu>
