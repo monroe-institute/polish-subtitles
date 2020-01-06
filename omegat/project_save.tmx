@@ -15,10 +15,27 @@ I first got into this field.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By accident sort of.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T195258Z" creationid="DELL" creationdate="20200106T195258Z">
+        <seg>Przez przypadek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It was.</seg>
       </tuv>
       <tuv lang="PL" changeid="Paweł" changedate="20191010T151642Z" creationid="Paweł" creationdate="20191010T151642Z">
         <seg>To było</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like the monkey who
+fell out of the tree.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T195338Z" creationid="DELL" creationdate="20200106T195338Z">
+        <seg>Jak małpa, która spadła z drzewa.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
