@@ -67,8 +67,8 @@ this.</seg>
       <tuv lang="EN-US">
         <seg>Buck.</seg>
       </tuv>
-      <tuv lang="PL" changeid="DELL" changedate="20200106T205233Z" creationid="DELL" creationdate="20200106T205233Z">
-        <seg>dolara.</seg>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T205442Z" creationid="DELL" creationdate="20200106T205233Z">
+        <seg>dolara (zrzuceniu odpowiedzialności).</seg>
       </tuv>
     </tu>
     <tu>
@@ -175,6 +175,24 @@ fell out of the tree.</seg>
       </tuv>
       <tuv lang="PL" changeid="DELL" changedate="20200106T202016Z" creationid="DELL" creationdate="20200106T201949Z">
         <seg>że to było jak oglądanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Buck ends with the
+president of the company.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T205243Z" creationid="DELL" creationdate="20200106T205243Z">
+        <seg>Dolar kończy się na prezesie firmy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The responsibility as does the
+authority so I decided we would</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T205535Z" creationid="DELL" creationdate="20200106T205535Z">
+        <seg>Odpowiedzialność, podobnie jak władza, więc postanowiłem</seg>
       </tuv>
     </tu>
     <tu>
