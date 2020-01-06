@@ -38,6 +38,14 @@ fell out of the tree.</seg>
         <seg>Jak małpa, która spadła z drzewa.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My company, which I.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T200043Z" creationid="DELL" creationdate="20200106T200043Z">
+        <seg>Moja firma, którą</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
