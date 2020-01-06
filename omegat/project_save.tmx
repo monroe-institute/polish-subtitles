@@ -130,6 +130,14 @@ fell out of the tree.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T203013Z" creationid="DELL" creationdate="20200106T203013Z">
+        <seg>Więc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That, it was like seeing a</seg>
       </tuv>
       <tuv lang="PL" changeid="DELL" changedate="20200106T202016Z" creationid="DELL" creationdate="20200106T201949Z">
@@ -160,6 +168,15 @@ radio programs, which means</seg>
       </tuv>
       <tuv lang="PL" changeid="DELL" changedate="20200106T200234Z" creationid="DELL" creationdate="20200106T200234Z">
         <seg>bardzo rozbudowane sieciowe programy radiowe, co oznacza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We did not think that we
+wanted to go through this all</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T203317Z" creationid="DELL" creationdate="20200106T203317Z">
+        <seg>Nie sądziliśmy, że chcemy to wszystko powtarzać</seg>
       </tuv>
     </tu>
     <tu>
@@ -204,6 +221,22 @@ nationwide and overseas.</seg>
       </tuv>
       <tuv lang="PL" changeid="DELL" changedate="20200106T202000Z" creationid="DELL" creationdate="20200106T202000Z">
         <seg>filmu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>nothing more to US than radio</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T202950Z" creationid="DELL" creationdate="20200106T202950Z">
+        <seg>dla nas nic więcej jak tylko radio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with a picture.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="DELL" changedate="20200106T202955Z" creationid="DELL" creationdate="20200106T202955Z">
+        <seg>z obrazem</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
